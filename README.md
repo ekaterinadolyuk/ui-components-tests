@@ -55,6 +55,7 @@ The suite demonstrates working with different Playwright locator types (`getByRo
 collections, and computing dates on the fly.
 
 ## Project structure
+```bash
 ui-components-tests/
 ├── tests/
 │   └── uiComponentsTests.spec.ts   # all test scenarios
