@@ -62,6 +62,7 @@ ui-components-tests/
 ├── playwright.config.ts            # Playwright configuration
 ├── package.json                    # project dependencies
 └── .gitignore
+```
 
 ## Requirements
 
